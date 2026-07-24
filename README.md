@@ -2,6 +2,13 @@
 
 Official repository for the book
 
+# Fundamentals of Deep Learning
+
+## Authors
+
+- Mohsen Sardari Zarchi
+- Khalili
+
 **Fundamentals of Deep Learning**
 
 This repository contains
