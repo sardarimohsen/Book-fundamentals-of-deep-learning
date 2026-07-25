@@ -118,7 +118,7 @@ cd Book-fundamentals-of-deep-learning
 pip install -r code/requirements.txt
 
 # 3. Launch a chapter notebook
-python code/Chapter 7 - Introduction to TensorFlow and Keras/
+python code/Chapter 7 - Introduction to TensorFlow and Keras/Chapter_07_tensorflow_keras.py
 ```
 
 <br>
@@ -135,10 +135,8 @@ This repository covers the **code side** of the book only. To get the **full tex
 
 <div align="center">
 
-| I want... | Contact |
-|---|---|
-| 📄 A **PDF copy** of the book | [![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) [![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH) |
-| 📦 To **purchase the printed edition** | [![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) [![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH) |
+[![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) 
+[![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH)
 
 </div>
 
@@ -146,23 +144,15 @@ Just send a message to the ID above and the authors will guide you through the p
 
 <br>
 
-## ✍️ Authors
+## 📄 Citation
 
-<table>
-<tr>
-<td align="center">
-<b>Mohsen Sardari Zarchi</b><br>
-</td>
-<td align="center">
-<b>Seyed Mohammad Arman Khalili</b><br>
-</td>
-</tr>
-</table>
+Coming soon.
 
 <br>
 
-<div align="center">
+## ✍️ Authors
 
-**⭐ If this repository helped you, consider giving it a star!**
+* Mohsen Sardari Zarchi
+* Seyed Mohammad Arman Khalili
 
-</div>
+<br>
