@@ -9,7 +9,7 @@
 # 📘 مبانی یادگیری عمیق
 ### Fundamentals of Deep Learning
 
-*مخزن همراه کتاب — کدهای منبع و تصاویر مربوط به فصل‌های کتاب*
+*ریپازیتوری همراه کتاب — کدهای منبع و تصاویر مربوط به فصل‌های کتاب*
 
 <br>
 
@@ -26,8 +26,8 @@
 
 <br>
 
-> ⚠️ **این مخزن شامل متن کامل کتاب نیست.**
-> اینجا فقط **کدهای منبع و تصاویر** مربوط به کتاب قرار داره. برای دریافت نسخه‌ی کامل (PDF) یا خرید نسخه‌ی چاپی، به بخش [📥 دریافت کتاب](#-دریافت-کتاب) در پایین همین صفحه مراجعه کن.
+> ⚠️ **این ریپازیتوری شامل متن کامل کتاب نیست.**
+> اینجا فقط **کدهای منبع و تصاویر** مربوط به کتاب قرار دارد. برای دریافت نسخه‌ی کامل (PDF) یا خرید نسخه‌ی چاپی، به بخش [📥 دریافت کتاب](#-دریافت-کتاب) در پایین همین صفحه مراجعه کن.
 
 <br>
 
@@ -52,6 +52,7 @@
 <br>
 
 ## 📚 فصل‌ها
+<div align="center">
 
 <table>
 <tr><th>#</th><th>عنوان فصل</th><th>کد</th></tr>
@@ -68,6 +69,8 @@
 <tr><td>۱۱</td><td>شبکه‌های عصبی بازگشتی (RNN)</td><td align="center">✅</td></tr>
 </table>
 
+</div>
+
 <sub>فصل‌های ۱ تا ۶ پایه‌های نظری و ریاضی رو پوشش می‌دن؛ فصل‌های ۷ تا ۱۱ همراه با کد کامل و اجرایی هستن.</sub>
 
 <br>
@@ -77,16 +80,16 @@
 ```
 Book-fundamentals-of-deep-learning/
 │
-├── code/                              # کدهای منبع (.py)، به‌تفکیک هر فصل
-│   ├── chapter07_tensorflow_keras/
-│   ├── chapter08_model_evaluation/
-│   ├── chapter09_data_processing/
-│   ├── chapter10_cnn/
-│   └── chapter11_rnn/
+├── code/                              # Source code organized by chapter
+│   ├── Chapter 7 - Introduction to TensorFlow and Keras/
+│   ├── Chapter 8 - Model Evaluation Metrics/
+│   ├── Chapter 9 - Data Preprocessing/
+│   ├── Chapter 10 - Convolutional Neural Networks/
+│   └── Chapter 11 - Recurrent Neural Networks/
 │
-├── images/                            # تصاویر و نمودارهای کتاب
+├── images/                            # Figures & diagrams used in the book
 │
-├── errata/                            # اصلاحات و غلط‌نامه
+├── errata/                            # Corrections and clarifications
 │
 └── README.md
 ```
@@ -94,6 +97,7 @@ Book-fundamentals-of-deep-learning/
 <br>
 
 ## ⚙️ پیش‌نیازها
+<div align="center">
 
 | کتابخانه |
 |---|
@@ -102,6 +106,8 @@ Book-fundamentals-of-deep-learning/
 | NumPy |
 | Matplotlib |
 | Scikit-learn |
+
+</div>
 
 ```bash
 pip install -r code/requirements.txt
@@ -112,15 +118,15 @@ pip install -r code/requirements.txt
 ## 🚀 شروع کار
 
 ```bash
-# ۱. کلون کردن ریپازیتوری
+# 1. Clone the repository
 git clone https://github.com/sardarimohsen/Book-fundamentals-of-deep-learning.git
 cd Book-fundamentals-of-deep-learning
 
-# ۲. نصب پیش‌نیازها
+# 2. Install dependencies
 pip install -r code/requirements.txt
 
-# ۳. اجرای کد یک فصل
-python code/chapter07_tensorflow_keras/example.py
+# 3. Launch a chapter notebook
+python code/Chapter 7 - Introduction to TensorFlow and Keras/Chapter_07_tensorflow_keras.py
 ```
 
 <br>
@@ -133,18 +139,15 @@ python code/chapter07_tensorflow_keras/example.py
 
 ## 📥 دریافت کتاب
 
-این ریپازیتوری فقط **بخش کد** کتاب رو پوشش می‌ده. برای دریافت **متن کامل کتاب**، یکی از گزینه‌های زیر رو انتخاب کن:
+این ریپازیتوری فقط **بخش کد** کتاب را پوشش می‌دهد. برای دریافت نسخه PDF یا نسخه فیزیکی **کتاب**، به یکی از آیدی‌های زیر در تلگرام پیام بدهید:
 
 <div align="center">
-
-| می‌خوام... | تماس |
-|---|---|
-| 📄 فایل **PDF** کتاب رو دریافت کنم | [![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) [![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH) |
-| 📦 نسخه‌ی **چاپی** کتاب رو تهیه کنم | [![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) [![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH) |
+  
+[![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) 
+[![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH)
 
 </div>
 
-کافیه به یکی از آیدی‌های بالا پیام بدی تا نویسندگان راهنماییت کنن.
 
 <br>
 
@@ -156,27 +159,7 @@ python code/chapter07_tensorflow_keras/example.py
 
 ## ✍️ نویسندگان
 
-<table>
-<tr>
-<td align="center">
-<b>محسن سرداری زرچی</b><br>
-<a href="https://t.me/Comp_sardari">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
-</td>
-<td align="center">
-<b>سید محمد آرمان خلیلی</b><br>
-<a href="https://t.me/S_M_A_KH">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
-</td>
-</tr>
-</table>
+* محسن سرداری زارچی
+* سید محمد آرمان خلیلی
 
 <br>
-
-<div align="center">
-
-**⭐ اگه این ریپازیتوری بهت کمک کرد، یک ستاره بهش بده!**
-
-</div>
