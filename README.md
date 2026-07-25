@@ -7,7 +7,7 @@ Official repository for the book
 ## Authors
 
 - Mohsen Sardari Zarchi
-- Khalili
+- Seyed Mohammad Arman Khalili
 
 **Fundamentals of Deep Learning**
 
@@ -31,7 +31,6 @@ datasets/
 ## Requirements
 
 * Python 3.12
-* PyTorch
 * TensorFlow
 * NumPy
 * Matplotlib
