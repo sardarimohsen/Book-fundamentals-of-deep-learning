@@ -1,13 +1,13 @@
 <div align="center">
 
-🌐 English | فارسی
+**🌐 [English](./README.md) | [فارسی](./README.fa.md)**
 
 </div>
 <div align="center">
 
 # 📘 Fundamentals of Deep Learning
 
-*A hands-on companion repository for the book — code, notebooks, and figures for every practical chapter.*
+*A hands-on companion repository for the book — code, notebooks, and figures for every chapter.*
 
 <br>
 
@@ -152,15 +152,9 @@ Just send a message to the ID above and the authors will guide you through the p
 <tr>
 <td align="center">
 <b>Mohsen Sardari Zarchi</b><br>
-<a href="https://t.me/Comp_sardari">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
 </td>
 <td align="center">
 <b>Seyed Mohammad Arman Khalili</b><br>
-<a href="https://t.me/S_M_A_KH">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
 </td>
 </tr>
 </table>
