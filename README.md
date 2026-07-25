@@ -131,7 +131,7 @@ Spotted an error in the book? Check [`errata/`](./errata) for known corrections 
 
 ## 📥 Get the Book
 
-This repository covers the **code side** of the book only. To get the **full text**, choose one of the options below:
+This repository only covers the code part of the book. To receive a PDF or physical copy of the book, send a message to one of the following IDs on Telegram:
 
 <div align="center">
 
@@ -139,8 +139,6 @@ This repository covers the **code side** of the book only. To get the **full tex
 [![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH)
 
 </div>
-
-Just send a message to the ID above and the authors will guide you through the process.
 
 <br>
 
