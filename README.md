@@ -36,7 +36,6 @@
 - [Requirements](#️-requirements)
 - [Getting Started](#-getting-started)
 - [Errata](#-errata)
-- [Get the Book](#-get-the-book)
 - [Citation](#-citation)
 - [Authors](#️-authors)
 
