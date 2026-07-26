@@ -25,8 +25,7 @@
 <br>
 
 > ⚠️ **This repository does *not* contain the full text of the book.**
-> It only hosts the **source code, Jupyter notebooks, and figures** referenced throughout the book. See [📥 Get the Book](#-get-the-book) below for the full text (PDF) or the printed edition.
-
+> It only hosts the **source code, Jupyter notebooks, and figures** referenced throughout the book.
 <br>
 
 ## 📑 Table of Contents
@@ -107,7 +106,7 @@ pip install -r code/requirements.txt
 
 <br>
 
-## 🚀 Getting Started
+## ⚡ Getting Started
 
 ```bash
 # 1. Clone the repository
@@ -123,22 +122,9 @@ python code/Chapter 7 - Introduction to TensorFlow and Keras/Chapter_07_tensorfl
 
 <br>
 
-## 🐞 Errata
+## 🛑 Errata
 
 Spotted an error in the book? Check [`errata/`](./errata) for known corrections first. If it's not listed, please [open an issue](../../issues) — it helps improve future editions.
-
-<br>
-
-## 📥 Get the Book
-
-This repository only covers the code part of the book. To receive a PDF or physical copy of the book, send a message to one of the following IDs on Telegram:
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) 
-[![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH)
-
-</div>
 
 <br>
 
