@@ -112,7 +112,7 @@ pip install -r code/requirements.txt
 
 <br>
 
-##⚡ شروع کار
+## ⚡ شروع کار
 
 ```bash
 # 1. Clone the repository
