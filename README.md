@@ -7,7 +7,7 @@
 
 # 📘 Fundamentals of Deep Learning
 
-*A hands-on companion repository for the book — code, notebooks, and figures for every chapter.*
+*A hands-on companion repository for the book — code and figures for every chapter.*
 
 <br>
 
@@ -25,7 +25,7 @@
 <br>
 
 > ⚠️ **This repository does *not* contain the full text of the book.**
-> It only hosts the **source code, Jupyter notebooks, and figures** referenced throughout the book.
+> It only hosts the **source code, figures** referenced throughout the book.
 <br>
 
 ## 📑 Table of Contents
