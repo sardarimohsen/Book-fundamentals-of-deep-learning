@@ -26,8 +26,7 @@
 <br>
 
 > ⚠️ **این ریپازیتوری شامل متن کامل کتاب نیست.**
-> اینجا فقط **کدهای منبع و تصاویر** مربوط به کتاب قرار دارد. برای دریافت نسخه‌ی کامل (PDF) یا خرید نسخه‌ی چاپی، به بخش [📥 دریافت کتاب](#-دریافت-کتاب) در پایین همین صفحه مراجعه کنید.
-
+> اینجا فقط **کدهای منبع و تصاویر** مربوط به کتاب قرار دارد.
 <br>
 
 ## 📑 فهرست مطالب
@@ -114,7 +113,7 @@ pip install -r code/requirements.txt
 
 <br>
 
-## 🚀 شروع کار
+##⚡ شروع کار
 
 ```bash
 # 1. Clone the repository
@@ -130,23 +129,9 @@ python code/Chapter 7 - Introduction to TensorFlow and Keras/Chapter_07_tensorfl
 
 <br>
 
-## 🐞 غلط‌نامه
+## 🛑 غلط‌نامه
 
 اگر در کتاب به اشتباهی برخوردید، اول پوشه‌ی [`errata/`](./errata) را چک کنید. اگر آنجا ثبت نشده بود، لطفاً یک [issue جدید](../../issues) باز کنید. این کار به بهبود چاپ‌های بعدی کتاب کمک می‌کند.
-
-<br>
-
-## 📥 دریافت کتاب
-
-این ریپازیتوری فقط **بخش کد** کتاب را پوشش می‌دهد. برای دریافت نسخه PDF یا نسخه فیزیکی **کتاب**، به یکی از آیدی‌های زیر در تلگرام پیام بدهید:
-
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-@Comp__sardari-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Comp_sardari) 
-[![Telegram](https://img.shields.io/badge/Telegram-@S__M__A__KH-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S_M_A_KH)
-
-</div>
-
 
 <br>
 
